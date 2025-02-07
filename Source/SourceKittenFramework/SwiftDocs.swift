@@ -8,6 +8,7 @@
 
 #if SWIFT_PACKAGE
 import SourceKit
+import Foundation
 #endif
 
 /// Represents docs for a Swift file.
